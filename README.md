@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=62C2E8&height=150&section=header" alt="header" />
-
-  <h1>Hi, I'm 김지윤 👋</h1>
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=62C2E8&height=150&section=header&text=Welcome%20to%20yunva17&fontSize=40" alt="header" />
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stack </h2> 
   <h3>💻 Programming Languages</h3>
   <div>
