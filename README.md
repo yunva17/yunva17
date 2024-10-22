@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=62C2E8&height=150&section=header&text=Welcome%20to%20yunva17&fontSize=40" alt="header" />
   <div>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%237897E1&title_bg=%238C8C8C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunva17&count_bg=%237897E1&title_bg=%238C8C8C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   </div>
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stack </h2> 
   <h3>💻 Programming Languages</h3>
