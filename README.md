@@ -30,9 +30,11 @@
   
   
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📊 Stats </h2>
-  
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/yunva17"/>
+  </a>
   <img src="https://github-readme-stats.vercel.app/api?username=yunva17&show_icons=true&theme=radical" alt="stats" />
-  
+
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✉️ Contact me </h2>
   <a href="mailto:yunva17@naver.com">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
