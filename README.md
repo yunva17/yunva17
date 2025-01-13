@@ -43,14 +43,14 @@
         style="
           height: 190px;
           object-fit: contain;
-          max-width: 100%;
+          max-width: 80%;
         "/>
       </a>
       <img src="https://github-readme-stats.vercel.app/api?username=yunva17&show_icons=true&theme=radical" alt="stats" 
         style="
             height: 190px;
             object-fit: contain;
-            max-width: 100%;
+            max-width: 80%;
       "/>
   </div>
 
